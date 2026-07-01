@@ -307,7 +307,7 @@ export default function BookingModal({ isOpen, onClose }: BookingModalProps) {
             </div>
           )}
         </div>
-      </div>
+      </div>  
     </div>
   );
 }
